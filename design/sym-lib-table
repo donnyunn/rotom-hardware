@@ -4,4 +4,5 @@
   (lib (name HCS1206FTL500)(type Legacy)(uri ${KIPRJMOD}/lib/HighCurrentShunt/HCS1206FTL500.lib)(options "")(descr ""))
   (lib (name M74VHC1GT66DTT1G)(type Legacy)(uri ${KIPRJMOD}/lib/AnalogSwitch/M74VHC1GT66DTT1G.lib)(options "")(descr ""))
   (lib (name DRV8301)(type Legacy)(uri ${KIPRJMOD}/lib/MotorDriver/DRV8301.lib)(options "")(descr ""))
+  (lib (name TC211733VDBTR)(type Legacy)(uri ${KIPRJMOD}/lib/TC211733VDBTR/TC211733VDBTR.lib)(options "")(descr ""))
 )

@@ -4,4 +4,5 @@
   (lib (name HighCurrentShunt)(type KiCad)(uri ${KIPRJMOD}/lib/HighCurrentShunt/HighCurrentShunt.pretty)(options "")(descr ""))
   (lib (name AnalogSwitch)(type KiCad)(uri ${KIPRJMOD}/lib/AnalogSwitch/AnalogSwitch.pretty)(options "")(descr ""))
   (lib (name MotorDriver)(type KiCad)(uri ${KIPRJMOD}/lib/MotorDriver/MotorDriver.pretty)(options "")(descr ""))
+  (lib (name TC211733VDBTR)(type KiCad)(uri ${KIPRJMOD}/lib/TC211733VDBTR/TC211733VDBTR.pretty)(options "")(descr ""))
 )
